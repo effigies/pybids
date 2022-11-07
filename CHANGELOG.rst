@@ -1,6 +1,18 @@
 Changelog
 =========
 
+Version 0.15.5 (November 07, 2022)
+----------------------------------
+
+Bug-fix release in 0.15.x series.
+
+* ENH: Add transformation history to ``BIDSStatsModelsNodeOutput`` (#905)
+* ENH: Update examples, add to sphinx, and convert to .md (#908)
+* ENH: More helpful __repr__ in modeling (#906)
+* MNT: Update git submodules (#911)
+* MNT: Bump peter-evans/create-pull-request from 3 to 4 (#904)
+* CI: Automatically update GitHub Actions in the future (#903)
+
 Version 0.15.4 (October 08, 2022)
 ---------------------------------
 
